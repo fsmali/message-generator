@@ -16,22 +16,7 @@ No special installation is required for this project. Simply download or clone t
 ```bash
 git clone https://github.com/yourusername/random-name-generator.git
 cd random-name-generator
-#Usage
-Open index.html in your web browser.
 
-Click the "message generator" button to display a random name from the predefined list.
-#Code Explanation
-##HTML
-The HTML file sets up the structure of the webpage, including a button to generate the random name and a div to display the generated name.
-
-
-
-##JavaScript
-The JavaScript file contains the logic for generating a random name from a predefined list and updating the HTML content.
-
-
-
-##CSS
-The CSS file contains styles for the webpage. Here is a simple example:
+## Usage
 
 
